@@ -1,0 +1,28 @@
+﻿@model IEnumerable<KindOfSport>
+
+@{
+    ViewData["Title"] = "Sports";
+    Layout = "_Layout";
+}
+
+<div class="container mt-100">
+    <div class="row">
+        @foreach (var item in Model){
+          <div class="col-md-3 col-sm-6">
+            <div class="card mb-30"><a class="card-img-tiles" href="#" data-abc="true">
+                <div class="inner">
+                  <div class="main-img"><img src=@item.ImageUrl alt="@item.Name" height="200"></div>
+                </div></a>
+              <div class="card-body text-center">
+                <h4 class="card-title">@item.Name</h4>
+                <a class="btn btn-outline-primary btn-sm" data-abc="true" asp-controller="Category" asp-action="FilterBySport" asp-route-sportId="@item.Id">View</a>
+              </div>
+            </div>
+          </div>
+          }
+    </div>
+</div>
+
+
+
+

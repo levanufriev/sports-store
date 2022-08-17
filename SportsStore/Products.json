@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "Demix Sport 3",
+    "Description": "Shoes for running outdoors and indoors. The model is designed for neutral pronation.",
+    "Price": 117.38,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/36f/2000_2000_5a02/50636900299.jpg",
+    "CategoryId": 1,
+    "SupplierId": 1
+  },
+  {
+    "Name": "PUMA Interflex Modern",
+    "Description": "SNew from PUMA, the Interflex series of running shoes for comfort and a sporty look.",
+    "Price": 221,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/42b/2000_2000_3283/51793890299.jpg",
+    "CategoryId": 1,
+    "SupplierId": 2
+  },
+  {
+    "Name": "PUMA Flyer Flex",
+    "Description": "Stretch Flyer Flex running shoes from PUMA. A new upper construction with signature side stripe creates a dynamic silhouette.",
+    "Price": 187.85,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/36f/2000_2000_5a02/50636900299.jpg",
+    "CategoryId": 1,
+    "SupplierId": 2
+  },
+  {
+    "Name": "Puma Interflex Modern",
+    "Description": "Comfortable and comfortable, PUMA's Interflex running shoes will energize your every step.",
+    "Price": 167.75,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/b98/2000_2000_a63f/64021010299.jpg",
+    "CategoryId": 2,
+    "SupplierId": 2
+  },
+  {
+    "Name": "Demix Fluid Plus",
+    "Description": "The Demix is a versatile running shoe suitable for a neutral pronation foot.",
+    "Price": 99.6,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/57d/2000_2000_54ce/47257610299.jpg",
+    "CategoryId": 2,
+    "SupplierId": 1
+  },
+  {
+    "Name": "Nike Run Stripe",
+    "Description": "Run into the wind in the Nike Run Stripe. Lightweight windbreaker is a great choice for training in cool weather.",
+    "Price": 214.3,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/a4d/2000_2000_e54a/61045870299.jpg",
+    "CategoryId": 3,
+    "SupplierId": 3
+  },
+  {
+    "Name": "Demix",
+    "Description": "The Demix windbreaker will keep you dry during your run.",
+    "Price": 116.76,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/846/2000_2000_4e33/57936000299.jpg",
+    "CategoryId": 4,
+    "SupplierId": 1
+  },
+  {
+    "Name": "Demix",
+    "Description": "The Demix sweatshirt is perfect for running.",
+    "Price": 141.44,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/5f9/395_380_4054/56650500299.jpg",
+    "CategoryId": 3,
+    "SupplierId": 1
+  },
+  {
+    "Name": "Demix",
+    "Description": "Demix running leggings for effective workouts.",
+    "Price": 78.3,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/d79/2000_2000_2fd3/58807950299.jpg",
+    "CategoryId": 4,
+    "SupplierId": 1
+  },
+  {
+    "Name": "Demix",
+    "Description": "Demix leggings are great for training.",
+    "Price": 88.5,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/dfa/2000_2000_bcc9/61033180299.jpg",
+    "CategoryId": 5,
+    "SupplierId": 1
+  },
+  {
+    "Name": "Demix",
+    "Description": "Comfortable Demix leggings are ideal for sports.",
+    "Price": 44.25,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/871/2000_2000_a07d/59854800299.jpg",
+    "CategoryId": 5,
+    "SupplierId": 1
+  },
+  {
+    "Name": "Fila",
+    "Description": "Comfortable swimming shorts FILA - a good choice for exercising in the pool or relaxing on the beach.",
+    "Price": 85,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/fa2/2000_2000_55c0/61350560299.jpg",
+    "CategoryId": 6,
+    "SupplierId": 7
+  },
+  {
+    "Name": "Joss",
+    "Description": "The Joss swimsuit is a great choice for regular pool workouts.",
+    "Price": 34.51,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/084/2000_2000_57d5/58939960299.jpg",
+    "CategoryId": 7,
+    "SupplierId": 5
+  },
+  {
+    "Name": "Joss",
+    "Description": "The Joss swimsuit is a great choice for regular pool workouts.",
+    "Price": 32.64,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/fa2/2000_2000_55c0/61350560299.jpg",
+    "CategoryId": 7,
+    "SupplierId": 5
+  },
+  {
+    "Name": "Joss",
+    "Description": "Joss goggles with mirrored lenses are perfect for pool swimming in bright light and open water.",
+    "Price": 44.3,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/544/2000_2000_b8f8/50168540299.jpg",
+    "CategoryId": 8,
+    "SupplierId": 5
+  },
+  {
+    "Name": "Stern Dynamic 2.0 26",
+    "Description": "Advanced entry-level Stern bike with Shimano components.",
+    "Price": 778,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/474/2000_2000_8d1f/49952480299.jpg",
+    "CategoryId": 9,
+    "SupplierId": 4
+  },
+  {
+    "Name": "adidas Rihla Training",
+    "Description": "The adidas training ball is ideal for frequent, intense workouts.",
+    "Price": 132.8,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/146/2000_2000_08a8/64706660299.jpg",
+    "CategoryId": 10,
+    "SupplierId": 6
+  },
+  {
+    "Name": "adidas Al Rihla League",
+    "Description": "Advanced entry-level Stern bike with Shimano components.",
+    "Price": 221,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/704/2000_2000_0643/64424850299.jpg",
+    "CategoryId": 10,
+    "SupplierId": 6
+  },
+  {
+    "Name": "Demix",
+    "Description": "Lightweight and durable, the Demix mat is a great choice for yoga.",
+    "Price": 44.3,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/148/2000_2000_9a66/49927480299.jpg",
+    "CategoryId": 11,
+    "SupplierId": 1
+  },
+  {
+    "Name": "Demix",
+    "Description": "Lightweight and durable, the Demix mat is a great choice for yoga.",
+    "Price": 98.8,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/media_content/resize/a49/2000_2000_55c6/57963840299.jpg",
+    "CategoryId": 11,
+    "SupplierId": 1
+  }
+]

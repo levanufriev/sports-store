@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "List of Products";
+}
+
+<div class="container mt-100">
+    <div class="row">
+        @foreach (var item in Model){
+          <div class="col-md-3 col-sm-6">
+            <div class="card mb-30"><a class="card-img-tiles" href="#" data-abc="true">
+                <div class="inner">
+                  <div class="main-img"><img src=@item.ImageUrl alt="@item.Name" height="200"></div>
+                </div></a>
+              <div class="card-body text-center">
+                <h4 class="card-title">@item.Name</h4>
+                <p class="text-muted">@item.Price $</p>
+                <a class="btn btn-outline-info" asp-action="Details" asp-route-id="@item.Id"><i class="bi bi-eye"></i>Details </a>
+                @if(User.Identity.IsAuthenticated && User.IsInRole("Admin")){
+                            <a class="btn btn-outline-primary" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i>Edit </a>                              
+                            <a class="btn btn-danger text-white" asp-action="Delete" asp-route-id="@item.Id"><i class="bi bi-trash"></i>Delete </a>
+                }
+                            <a class="btn btn-success text-white" 
+                                   asp-controller="Order" 
+                                   asp-action="AddItemToShoppingCart" 
+                                   asp-route-id="@item.Id">
+                                <i class="bi bi-cart-plus"></i> Add to Cart</a>
+              </div>
+            </div>
+          </div>
+          }
+    </div>
+</div>
+
+<div style="position: fixed; right: 25px; bottom: 25px;" class="text-white">
+        <a asp-controller="Product" asp-action="Create" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Add New
+        </a>
+</div>
+

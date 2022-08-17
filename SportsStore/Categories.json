@@ -1,0 +1,74 @@
+[
+  {
+    "KindOfSportId": 1,
+    "Name": "Men's footwear",
+    "Gender": 0,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/bf5/164_162_3fa5/51920450299.jpg"
+
+  },
+  {
+    "KindOfSportId": 1,
+    "Name": "Women's footwear",
+    "Gender": 1,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/c04/164_162_6932/51567350299.jpg"
+
+  },
+  {
+    "KindOfSportId": 1,
+    "Name": "Men's clothes",
+    "Gender": 0,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/c8d/164_162_24e4/51920460299.jpg"
+
+  },
+  {
+    "KindOfSportId": 1,
+    "Name": "Women's clothes",
+    "Gender": 1,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/97d/164_162_de53/51920430299.jpg"
+  },
+  {
+    "KindOfSportId": 2,
+    "Name": "Fintess clothes",
+    "Gender": 1,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/b29/164_162_feb0/63463070299.jpg"
+  },
+  {
+    "KindOfSportId": 3,
+    "Name": "Swimming trunks",
+    "Gender": 0,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/727/164_162_ffc3/64816760299.jpg"
+
+  },
+  {
+    "KindOfSportId": 3,
+    "Name": "Swimsuit",
+    "Gender": 1,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/06d/164_162_3b2a/64816950299.jpg"
+  },
+  {
+    "KindOfSportId": 3,
+    "Name": "Goggles",
+    "Gender": 2,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/131/164_162_a165/64816770299.jpg"
+  },
+  {
+    "KindOfSportId": 4,
+    "Name": "Bikes",
+    "Gender": 2,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/d61/164_162_bd10/51919660299.jpg"
+  },
+  {
+    "KindOfSportId": 5,
+    "Name": "Balls",
+    "Gender": 2,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/ee1/164_162_aa8d/51570660299.jpg"
+  },
+  {
+    "KindOfSportId": 6,
+    "Name": "Accessories",
+    "Gender": 2,
+    "ImageUrl": "https://cdnby.sportmaster.com/upload/mdm/node_kd/resize/e21/164_162_50a7/65571750299.jpg"
+  }
+]
+
+ 
